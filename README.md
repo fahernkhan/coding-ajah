@@ -10,3 +10,5 @@ day 3 scaling with open-cv
 day 4 anomaly detection and rgb to greyscale citra
 
 day 5 data pipeline and EDA anomaly data detection
+
+day 6 data pipeline and modeling
