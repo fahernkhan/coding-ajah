@@ -12,3 +12,5 @@ day 4 anomaly detection and rgb to greyscale citra
 day 5 data pipeline and EDA anomaly data detection (preview)
 
 day 6 data pipeline and modeling (preview)
+
+day 7 CI pipeline and python
