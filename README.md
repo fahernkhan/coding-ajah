@@ -14,3 +14,5 @@ day 5 data pipeline and EDA anomaly data detection (preview)
 day 6 data pipeline and modeling (preview)
 
 day 7 CI pipeline and python
+
+day 8 Data Frame operatin python
