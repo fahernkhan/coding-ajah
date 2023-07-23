@@ -18,3 +18,5 @@ day 7 CI pipeline and python
 day 8 Data Frame operatin python
 
 day 9 Intro to CV
+
+day 10 Intro CV with CNN 
