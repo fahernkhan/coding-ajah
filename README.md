@@ -20,3 +20,5 @@ day 8 Data Frame operatin python
 day 9 Intro to CV
 
 day 10 Intro CV with CNN 
+
+day 11 chart in python
