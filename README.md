@@ -22,3 +22,5 @@ day 9 Intro to CV
 day 10 Intro CV with CNN 
 
 day 11 chart in python
+
+day 12 CI/CD and intro to ANN (not code)
