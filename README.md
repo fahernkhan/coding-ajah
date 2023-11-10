@@ -24,3 +24,5 @@ day 10 Intro CV with CNN
 day 11 chart in python
 
 day 12 CI/CD and intro to ANN (not code)
+
+day 13 Computer Vision gender detection
